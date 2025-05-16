@@ -1,2 +1,2 @@
-# Weather App usinf Fetch API
+# Weather App using Fetch API
 
